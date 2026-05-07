@@ -22,7 +22,7 @@ Sigue estos pasos para levantar el entorno completo desde cero:
    
     ```bash
     git clone https://github.com/Robert0a51/ProyectoAmpliRoberto.git
-    cd ProyectoRoberto
+    cd ProyectoAmpliRoberto
     ```
 3.  **Iniciar la automatización:**
     Ejecuta el siguiente comando en la carpeta donde esté el `Vagrantfile`:
