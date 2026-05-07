@@ -21,7 +21,7 @@ Sigue estos pasos para levantar el entorno completo desde cero:
 1.  **Clonar el repositorio:**
    
     ```bash
-    git clone https://github.com/Robert0a51/Proyecto-de-Ampliacion-de-Sistemas-Roberto.git
+    git clone https://github.com/Robert0a51/ProyectoAmpliRoberto.git
     cd ProyectoRoberto
     ```
 3.  **Iniciar la automatización:**
