@@ -21,8 +21,8 @@ Sigue estos pasos para levantar el entorno completo desde cero:
 1.  **Clonar el repositorio:**
    
     ```bash
-    git clone https://github.com/Robert0a51/PROYECTOAMPLI.git
-    cd PROYECTOAMPLI
+    git clone https://github.com/Robert0a51/Proyecto-de-Ampliacion-de-Sistemas-Roberto.git
+    cd ProyectoRoberto
     ```
 3.  **Iniciar la automatización:**
     Ejecuta el siguiente comando en la carpeta donde esté el `Vagrantfile`:
